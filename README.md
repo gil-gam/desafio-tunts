@@ -2,6 +2,12 @@
 Criar uma aplicação capaz de ler uma planilha do google sheets, buscar as informações necessárias, calcular e escrever o resultado na planilha.
 
 
+Link público da planilha:
+https://docs.google.com/spreadsheets/d/1NbkOelk6-TwQCZ8iDjy15pLVJOPn9InVPUSZRXQevis/edit?usp=sharing
+
+
+Passo a passo:
+
 1. Fazer o download e instalar o software Python; 
 
 2. Criar um ambiente isolado. Na linha de comando DOS, executar:
